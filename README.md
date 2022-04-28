@@ -3,6 +3,6 @@
 
 
 
-NPM I   f server o f client
+npm i   f server o f client
 
 npm start f server o f client
